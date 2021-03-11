@@ -9,7 +9,7 @@ let second = 1000;
 let minute = second * 60;
 let hour = minute * 60;
 let day = hour * 24;
-let finalDate = new Date('December 31, 2020 00:00:00');
+let finalDate = new Date('December 31, 2021 00:00:00');
 
 let startClock = () => {
     updateTime();
